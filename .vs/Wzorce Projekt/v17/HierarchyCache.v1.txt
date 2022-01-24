@@ -1,0 +1,726 @@
+﻿++Solution 'Wzorce Projekt' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Wzorce Projekt.sln
+++Assembly-CSharp
+i:{00000000-0000-0000-0000-000000000000}:Assembly-CSharp
+++References
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Assets
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\
+++Scripts
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\
+++Gameplay
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\gameplay\
+++BuletControler.cs
+++ButtonGate.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\gameplay\buttongate.cs
+++ButtonLogic.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\gameplay\buttonlogic.cs
+++CheckpointLogic.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\gameplay\checkpointlogic.cs
+++CoinLogic.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\gameplay\coinlogic.cs
+++CreatureControler.cs
+++EnemyHeadLogic.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\gameplay\enemyheadlogic.cs
+++EnemyLogic.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\gameplay\enemylogic.cs
+++GateLogic.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\gameplay\gatelogic.cs
+++KeyLogic.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\gameplay\keylogic.cs
+++LevelExitLogic.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\gameplay\levelexitlogic.cs
+++LevelLogic.cs
+++LevelLogicInitiator.cs
+++Movement Controlers.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\gameplay\movement controlers.cs
+++MovingObjcectControler.cs
+++PauseButtonLogic.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\gameplay\pausebuttonlogic.cs
+++PlayerControler.cs
+++SimplePlatformControler.cs
+++SpawnerLogic.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\gameplay\spawnerlogic.cs
+++SpikesLogic.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\gameplay\spikeslogic.cs
+++Interfaces
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\interfaces\
+++BulletCreator.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\patterns\factory method\bulletcreator.cs
+++CameraControler.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\interfaces\cameracontroler.cs
+++Creator.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\patterns\factory method\creator.cs
+++HoldComand.cs
+++ICommand.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\patterns\command\icommand.cs
+++IMovmentImplementation.cs
+++IObserver.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\patterns\observer\iobserver.cs
+++ISubject.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\patterns\observer\isubject.cs
+++MovableObject.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\interfaces\movableobject.cs
+++MoveToPointCommand.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\patterns\command\movetopointcommand.cs
+++MovmentSimpleImplementation.cs
+++PlayerState.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\interfaces\playerstate.cs
+++PlayerStateJumping.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\interfaces\playerstatejumping.cs
+++PlayerStateWalking.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\interfaces\playerstatewalking.cs
+++SimplePlatformCreator.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\patterns\factory method\simpleplatformcreator.cs
+++Menu
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\menu\
+++Caretaker.cs
+++Iterator.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\patterns\iterator\iterator.cs
+++IteratorAgregate.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\patterns\iterator\iteratoragregate.cs
+++LevelData.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\patterns\memento\leveldata.cs
+++LevelPanelLogic.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\menu\levelpanellogic.cs
+++LevelsContainer.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\patterns\memento\levelscontainer.cs
+++Levelsiterator.cs
+++MainMenuLogic.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\menu\mainmenulogic.cs
+++Memento.cs
+++PauseMenuCoordinator.cs
+++TextMesh Pro
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\
+++Microsoft.Win32.Primitives
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++mscorlib
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++netstandard
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Newtonsoft.Json
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++PsdPlugin
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.AppContext
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Collections
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Collections.Concurrent
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Collections.NonGeneric
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Collections.Specialized
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.ComponentModel
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.ComponentModel.Composition
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.ComponentModel.EventBasedAsync
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.ComponentModel.Primitives
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.ComponentModel.TypeConverter
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Console
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Core
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Data
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Data.Common
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Diagnostics.Contracts
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Diagnostics.Debug
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Diagnostics.FileVersionInfo
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Diagnostics.Process
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Diagnostics.StackTrace
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Diagnostics.TextWriterTraceListener
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Diagnostics.Tools
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Diagnostics.TraceSource
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Diagnostics.Tracing
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Drawing
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Drawing.Primitives
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Dynamic.Runtime
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Globalization
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Globalization.Calendars
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Globalization.Extensions
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.IO
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.IO.Compression
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.IO.Compression.FileSystem
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.IO.Compression.ZipFile
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.IO.FileSystem
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.IO.FileSystem.DriveInfo
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.IO.FileSystem.Primitives
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.IO.FileSystem.Watcher
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.IO.IsolatedStorage
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.IO.MemoryMappedFiles
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.IO.Pipes
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.IO.UnmanagedMemoryStream
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Linq
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Linq.Expressions
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Linq.Parallel
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Linq.Queryable
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Net
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Net.Http
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Net.NameResolution
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Net.NetworkInformation
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Net.Ping
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Net.Primitives
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Net.Requests
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Net.Security
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Net.Sockets
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Net.WebHeaderCollection
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Net.WebSockets
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Net.WebSockets.Client
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Numerics
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Numerics.Vectors
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.ObjectModel
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Reflection
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Reflection.Extensions
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Reflection.Primitives
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Resources.Reader
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Resources.ResourceManager
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Resources.Writer
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Runtime
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Runtime.CompilerServices.VisualC
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Runtime.Extensions
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Runtime.Handles
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Runtime.InteropServices
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Runtime.InteropServices.RuntimeInformation
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Runtime.InteropServices.WindowsRuntime
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Runtime.Numerics
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Runtime.Serialization
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Runtime.Serialization.Formatters
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Runtime.Serialization.Json
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Runtime.Serialization.Primitives
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Runtime.Serialization.Xml
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Security.Claims
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Security.Cryptography.Algorithms
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Security.Cryptography.Csp
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Security.Cryptography.Encoding
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Security.Cryptography.Primitives
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Security.Cryptography.X509Certificates
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Security.Principal
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Security.SecureString
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.ServiceModel.Web
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Text.Encoding
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Text.Encoding.Extensions
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Text.RegularExpressions
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Threading
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Threading.Overlapped
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Threading.Tasks
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Threading.Tasks.Parallel
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Threading.Thread
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Threading.ThreadPool
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Threading.Timer
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Transactions
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.ValueTuple
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Web
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Windows
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Xml
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Xml.Linq
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Xml.ReaderWriter
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Xml.Serialization
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Xml.XDocument
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Xml.XmlDocument
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Xml.XmlSerializer
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Xml.XPath
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++System.Xml.XPath.XDocument
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.2D.Animation.Editor
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.2D.Animation.Runtime
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.2D.Animation.Triangle.Runtime
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.2D.Common.Editor
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.2D.Common.Runtime
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.2D.IK.Editor
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.2D.IK.Runtime
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.2D.Path.Editor
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.2D.PixelPerfect
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.2D.PixelPerfect.Editor
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.2D.Psdimporter.Editor
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.2D.Sprite.Editor
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.2D.SpriteShape.Editor
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.2D.SpriteShape.Runtime
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.2D.Tilemap.Editor
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.InternalAPIEditorBridge.001
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.InternalAPIEngineBridge.001
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.Mathematics
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.Mathematics.Editor
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.PlasticSCM.Editor
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.Rider.Editor
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.TextMeshPro
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.TextMeshPro.Editor
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.Timeline
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.Timeline.Editor
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.VisualStudio.Editor
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Unity.VSCode.Editor
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEditor
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEditor.CoreModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEditor.GraphViewModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEditor.PackageManagerUIModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEditor.SceneTemplateModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEditor.UI
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEditor.UIElementsModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEditor.UIElementsSamplesModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEditor.UIServiceModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEditor.UnityConnectModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.AccessibilityModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.AIModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.AndroidJNIModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.AnimationModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.ARModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.AssetBundleModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.AudioModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.ClothModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.ClusterInputModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.ClusterRendererModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.CoreModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.CrashReportingModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.DirectorModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.DSPGraphModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.GameCenterModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.GIModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.GridModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.HotReloadModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.ImageConversionModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.IMGUIModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.InputLegacyModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.InputModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.JSONSerializeModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.LocalizationModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.ParticleSystemModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.PerformanceReportingModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.Physics2DModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.PhysicsModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.ProfilerModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.ScreenCaptureModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.SharedInternalsModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.SpriteMaskModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.SpriteShapeModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.StreamingModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.SubstanceModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.SubsystemsModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.TerrainModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.TerrainPhysicsModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.TextCoreModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.TextRenderingModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.TilemapModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.TLSModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.UI
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.UIElementsModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.UIElementsNativeModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.UIModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.UmbraModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.UNETModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.UnityAnalyticsModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.UnityConnectModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.UnityCurlModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.UnityTestProtocolModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.UnityWebRequestAssetBundleModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.UnityWebRequestAudioModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.UnityWebRequestModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.UnityWebRequestTextureModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.UnityWebRequestWWWModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.VehiclesModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.VFXModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.VideoModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.VirtualTexturingModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.VRModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.WindModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++UnityEngine.XRModule
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:
+++Examples & Extras
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\
+++Fonts
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\fonts\
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\fonts\
+++Resources
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\resources\
+++Shaders
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\shaders\
+++Sprites
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\sprites\
+++LiberationSans - OFL.txt
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\fonts\liberationsans - ofl.txt
+++LineBreaking Following Characters.txt
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\resources\linebreaking following characters.txt
+++LineBreaking Leading Characters.txt
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\resources\linebreaking leading characters.txt
+++TMP_Bitmap-Custom-Atlas.shader
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\shaders\tmp_bitmap-custom-atlas.shader
+++TMP_Bitmap-Mobile.shader
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\shaders\tmp_bitmap-mobile.shader
+++TMP_Bitmap.shader
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\shaders\tmp_bitmap.shader
+++TMP_SDF-Mobile Masking.shader
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\shaders\tmp_sdf-mobile masking.shader
+++TMP_SDF-Mobile Overlay.shader
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\shaders\tmp_sdf-mobile overlay.shader
+++TMP_SDF-Mobile SSD.shader
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\shaders\tmp_sdf-mobile ssd.shader
+++TMP_SDF-Mobile.shader
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\shaders\tmp_sdf-mobile.shader
+++TMP_SDF-Surface-Mobile.shader
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\shaders\tmp_sdf-surface-mobile.shader
+++TMP_SDF-Surface.shader
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\shaders\tmp_sdf-surface.shader
+++TMP_SDF Overlay.shader
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\shaders\tmp_sdf overlay.shader
+++TMP_SDF SSD.shader
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\shaders\tmp_sdf ssd.shader
+++TMP_SDF.shader
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\shaders\tmp_sdf.shader
+++TMP_Sprite.shader
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\shaders\tmp_sprite.shader
+++TMPro.cginc
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\shaders\tmpro.cginc
+++TMPro_Mobile.cginc
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\shaders\tmpro_mobile.cginc
+++TMPro_Properties.cginc
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\shaders\tmpro_properties.cginc
+++TMPro_Surface.cginc
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\shaders\tmpro_surface.cginc
+++EmojiOne Attribution.txt
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\sprites\emojione attribution.txt
+++Anton OFL.txt
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\fonts\anton ofl.txt
+++Bangers - OFL.txt
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\fonts\bangers - ofl.txt
+++Oswald-Bold - OFL.txt
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\fonts\oswald-bold - ofl.txt
+++Benchmark01.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\benchmark01.cs
+++Benchmark01_UGUI.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\benchmark01_ugui.cs
+++Benchmark02.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\benchmark02.cs
+++Benchmark03.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\benchmark03.cs
+++Benchmark04.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\benchmark04.cs
+++CameraController.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\cameracontroller.cs
+++ChatController.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\chatcontroller.cs
+++DropdownSample.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\dropdownsample.cs
+++EnvMapAnimator.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\envmapanimator.cs
+++ObjectSpin.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\objectspin.cs
+++ShaderPropAnimator.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\shaderpropanimator.cs
+++SimpleScript.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\simplescript.cs
+++SkewTextExample.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\skewtextexample.cs
+++TeleType.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\teletype.cs
+++TextConsoleSimulator.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\textconsolesimulator.cs
+++TextMeshProFloatingText.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\textmeshprofloatingtext.cs
+++TextMeshSpawner.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\textmeshspawner.cs
+++TMP_DigitValidator.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\tmp_digitvalidator.cs
+++TMP_ExampleScript_01.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\tmp_examplescript_01.cs
+++TMP_FrameRateCounter.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\tmp_frameratecounter.cs
+++TMP_PhoneNumberValidator.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\tmp_phonenumbervalidator.cs
+++TMP_TextEventCheck.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\tmp_texteventcheck.cs
+++TMP_TextEventHandler.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\tmp_texteventhandler.cs
+++TMP_TextInfoDebugTool.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\tmp_textinfodebugtool.cs
+++TMP_TextSelector_A.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\tmp_textselector_a.cs
+++TMP_TextSelector_B.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\tmp_textselector_b.cs
+++TMP_UiFrameRateCounter.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\tmp_uiframeratecounter.cs
+++TMPro_InstructionOverlay.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\tmpro_instructionoverlay.cs
+++VertexColorCycler.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\vertexcolorcycler.cs
+++VertexJitter.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\vertexjitter.cs
+++VertexShakeA.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\vertexshakea.cs
+++VertexShakeB.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\vertexshakeb.cs
+++VertexZoom.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\vertexzoom.cs
+++WarpTextExample.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\textmesh pro\examples & extras\scripts\warptextexample.cs
+++BulletControler.cs
+++Assembly-CSharp (unloaded)
+++Solution 'Wzorce Projekt' ‎(0 of 1 project)
+++BulletController.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\gameplay\bulletcontroller.cs
+++CreatureController.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\gameplay\creaturecontroller.cs
+++LevelMenager.cs
+++LevelManager.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\gameplay\levelmanager.cs
+++ComplexPlatformControler.cs
+++ComplexPlatformController.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\gameplay\complexplatformcontroller.cs
+++PlayerController.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\gameplay\playercontroller.cs
+++SimplePlatformController.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\gameplay\simpleplatformcontroller.cs
+++HoldCommand.cs
+++WaitCommand.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\patterns\command\waitcommand.cs
+++IMovementImplementation.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\patterns\bridge\imovementimplementation.cs
+++MovementSimpleImplementation.cs
+++SimpleMovementImplementation.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\interfaces\simplemovementimplementation.cs
+++LevelDataCaretaker.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\patterns\memento\leveldatacaretaker.cs
+++LevelsIterator.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\menu\levelsiterator.cs
+++LevelsMemento.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\patterns\memento\levelsmemento.cs
+++PauseMenuLogic.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\menu\pausemenulogic.cs
+++LevelManagerInitiator.cs
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\gameplay\levelmanagerinitiator.cs
+++NewFolder1
+++Observer
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\patterns\observer\
+++Observer - Copy
+++Observer - Copy (2)
+++Observer - Copy (3)
+++Observer - Copy (4)
+++Observer - Copy (5)
+++Observer - Copy (6)
+++Observer - Copy (7)
+++Factory Method
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\patterns\factory method\
+++Bridge
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\patterns\bridge\
+++Singleton
+++Memento
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\patterns\memento\
+++Commanf
+++Command
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\patterns\command\
+++State
+++Iterator
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\patterns\iterator\
+++Patterns
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\patterns\
+++NewFolder2
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\patterns\newfolder2\
+++Singletono
+i:{f9d4b25d-67ba-c8e2-316b-a002b478bffa}:d:\studia\semestr 5\wzorce\wzorce projekt\assets\scripts\patterns\singletono\
